@@ -57,8 +57,7 @@ img {
 
 .profile {
   background-color: var(--clr-neutral-dkblue);
-  border-bottom-left-radius: 1rem;
-  border-bottom-right-radius: 1rem;
+  border-radius: 1rem;
 }
 
 .profile__card {
